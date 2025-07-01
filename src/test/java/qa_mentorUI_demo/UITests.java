@@ -65,6 +65,3 @@ public class UITests {
         $$("a").findBy(Condition.text("Application Testing Services")).shouldBe(Condition.visible);
     }
 }
-
-
-
